@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hello World 👋
 
+- 🍔 I’m currently working at Delivery Hero as a Senior Front-End Engineer
+- 🌱 I’m currently learning Next.js
+- 🔥 Some of my most popular projects are: [pokedex-app](https://pokedex.click) and [react-boilerplate](https://github.com/georgeroubie/react-boilerplate)
+- ⚡ Fun fact: I love playing retro games and mostly Pokemon
 <!--
 **georgeroubie/georgeroubie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working at ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
