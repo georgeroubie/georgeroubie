@@ -1,7 +1,7 @@
 ### Hello World 👋
 
-- 🍔 I’m currently working at Delivery Hero as a Senior Front-End Engineer
-- 🌱 I’m currently learning Next.js
+- 🍔 I currently work at Delivery Hero as a Senior Front-End Engineer
+- 🌱 Right now I am learning Next.js
 - 🔥 Some of my most popular projects are: [pokedex-app](https://pokedex.click) and [react-boilerplate](https://github.com/georgeroubie/react-boilerplate)
 - ⚡ Fun fact: I love playing retro games and mostly Pokemon
 <!--
