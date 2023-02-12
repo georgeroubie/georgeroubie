@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Donate
+
+If you like my projects you can:
+
+<a class="sc-gKPRtg devZZP" href="https://www.buymeacoffee.com/georgeroubie" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="width: 180px; height: auto;" alt="Buy Me A Coffee" class="sc-pyfCe dHDANK"></a>
