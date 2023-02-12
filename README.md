@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Donate
+### Donate 🙏
 
-If you like my projects you can:
+If you like what I do, you can support me:
 
-<a class="sc-gKPRtg devZZP" href="https://www.buymeacoffee.com/georgeroubie">
+<a href="https://www.buymeacoffee.com/georgeroubie">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="width: 180px; height: auto;" alt="Buy Me A Coffee">
 </a>
