@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 If you like what I do, you can support me:
 
 <a href="https://www.buymeacoffee.com/georgeroubie">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="width: 200px; height: auto;" alt="Buy Me A Coffee">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="width: 170px; height: auto;" alt="Buy Me A Coffee">
 </a>
