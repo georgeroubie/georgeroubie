@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ### Actively working 👨‍💻
 
-The technologies I use daily are HTML, CSS, React, Styled Components, Zustand, and Next.js. 
+The technologies I use daily are HTML, CSS, React, Styled Components, Zustand, Next.js, Jest, and Webpack.
 
 ### Veteran technologies 🎖
 
-HTML Tables for UI, Bootstrap 2-3, MaterializeCSS, Sass, Less, jQuery, Coffeescript, Backbone.js, Angular.js, Angular 2+, ASP.NET, Orchard CMS, Grunt, and Gulp.
+Over the years I used HTML Tables for UI, Bootstrap 2, Bootstrap 3, Materialize CSS, Sass, Less, jQuery, CoffeeScript, Backbone.js, Angular.js, Angular 2+, Redux, RxJS, Ionic 1, Ionic 2+, ASP.NET, ASP.NET MVC, Orchard CMS, Mocha, Karma, Grunt, and Gulp.
 
 ### Donate 🙏
 
