@@ -3,7 +3,7 @@
 - 🍔 I currently work at Delivery Hero as a Senior Front-End Engineer
 - 🌱 Right now I am learning Next.js
 - 🔥 Some of my most popular projects are: [pantomima-app](https://github.com/georgeroubie/pantomima-app) and [react-boilerplate](https://github.com/georgeroubie/react-boilerplate)
-- ⚡ Fun fact: I love playing retro games and mostly Pokemon
+- ⚡ Fun fact: I love playing Pokemon and retro video games.
 <!--
 **georgeroubie/georgeroubie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
