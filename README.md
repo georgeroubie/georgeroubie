@@ -25,7 +25,7 @@ The technologies I use daily are HTML, CSS, React, TypeScript, CSS Modules, Zust
 
 ### Veteran technologies 🎖
 
-Over the years I used HTML Tables for UI, Bootstrap 2, Bootstrap 3, Materialize CSS, Sass, Less, Styled Components, jQuery, CoffeeScript, Backbone.js, Angular.js, Angular 2+, Redux, RxJS, Ionic 1, Ionic 2+, ASP.NET, ASP.NET MVC, Orchard CMS, Mocha, Karma, Grunt, and Gulp.
+Over the years I used HTML Tables for UI, Bootstrap 2, Bootstrap 3, Materialize CSS, Sass, Less, Styled Components, jQuery, CoffeeScript, Backbone.js, Angular.js, Angular 2+, Redux, RxJS, Ionic 1, Ionic 2+, ASP.NET, ASP.NET MVC, Orchard CMS, Next.js, Mocha, Karma, Grunt, and Gulp.
 
 ### Donate 🙏
 
