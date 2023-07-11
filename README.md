@@ -1,9 +1,9 @@
 ### Hello World 👋
 
 - 🍔 I currently work at [Workable](https://www.workable.com) as a Senior Front-End Engineer
-- 🌱 Right now I am learning Next.js
+- 🌱 Right now I am learning Vite
 - 🔥 Some of my most popular projects are: [pantomima-app](https://github.com/georgeroubie/pantomima-app) and [react-boilerplate](https://github.com/georgeroubie/react-boilerplate)
-- ⚡ Fun fact: I love playing Pokemon and retro video games.
+- ⚡ Fun fact: I love playing Pokemon and retro video games
 <!--
 **georgeroubie/georgeroubie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ### Actively working 👨‍💻
 
-The technologies I use daily are HTML, CSS, React, TypeScript, Styled Components, Zustand, Next.js, Jest, and Webpack.
+The technologies I use daily are HTML, CSS, React, TypeScript, CSS Modules, Zustand, Jest, and Webpack.
 
 ### Veteran technologies 🎖
 
-Over the years I used HTML Tables for UI, Bootstrap 2, Bootstrap 3, Materialize CSS, Sass, Less, jQuery, CoffeeScript, Backbone.js, Angular.js, Angular 2+, Redux, RxJS, Ionic 1, Ionic 2+, ASP.NET, ASP.NET MVC, Orchard CMS, Mocha, Karma, Grunt, and Gulp.
+Over the years I used HTML Tables for UI, Bootstrap 2, Bootstrap 3, Materialize CSS, Sass, Less, Styled Components, jQuery, CoffeeScript, Backbone.js, Angular.js, Angular 2+, Redux, RxJS, Ionic 1, Ionic 2+, ASP.NET, ASP.NET MVC, Orchard CMS, Mocha, Karma, Grunt, and Gulp.
 
 ### Donate 🙏
 
