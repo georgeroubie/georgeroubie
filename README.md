@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Actively working 👨‍💻
 
-The technologies I use daily are HTML, CSS, React, TypeScript, CSS Modules, Zustand, Jest, and Webpack.
+The technologies I use daily are HTML, CSS, React, TypeScript, CSS Modules, Zustand, Jest, Webpack and Vite.
 
 ### Veteran technologies 🎖
 
