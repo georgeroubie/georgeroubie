@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - 🍔 I currently work at [Workable](https://www.workable.com) as a Senior Front-End Engineer
-- 🌱 Right now I am trying to convert my `react-boilerplate` project from `create-react-app` to `Vite`.
+- 🌱 Right now I am learning React Query.
 - 🔥 Some of my most popular projects are: [pantomima-app](https://github.com/georgeroubie/pantomima-app) and [react-boilerplate](https://github.com/georgeroubie/react-boilerplate)
 - ⚡ Fun fact: I love playing Pokemon and retro video games
 <!--
