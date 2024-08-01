@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🍔 I currently work at [efood](https://www.efood.gr) as a Senior Front-End Engineer
+- 🍔 I currently work at [efood](https://www.e-food.gr) as a Senior Front-End Engineer
 - 🌱 Right now I trying to improve pantomima/charadesgame app.
 - 🔥 Some of my most popular projects are: [pantomima.app](https://pantomima.app), [charadesgame.app](https://charadesgame.app) and [react-boilerplate](https://github.com/georgeroubie/react-boilerplate)
 - ⚡ Fun fact: I love playing Pokemon and retro video games
