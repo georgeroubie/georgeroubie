@@ -1,8 +1,8 @@
 ### Hello World 👋
 
 - 🍔 I currently work at [efood](https://www.e-food.gr) as a Senior Front-End Engineer
-- 🌱 Right now I trying to improve pantomima/charadesgame app.
-- 🔥 Some of my most popular projects are: [pantomima.app](https://pantomima.app), [charadesgame.app](https://charadesgame.app) and [react-boilerplate](https://github.com/georgeroubie/react-boilerplate)
+- 🌱 Right now I trying to improve [pantomima.app](https://pantomima.app).
+- 🔥 Some of my most popular projects are: [pantomima.app](https://pantomima.app) and [react-boilerplate](https://github.com/georgeroubie/react-boilerplate)
 - ⚡ Fun fact: I love playing Pokemon and retro video games
 <!--
 **georgeroubie/georgeroubie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
