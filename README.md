@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - 🍔 I currently work at [efood](https://www.e-food.gr) as a Senior Front-End Engineer
-- 🌱 Right now I trying to improve [pantomima.app](https://pantomima.app).
+- 🌱 Right now I trying to improve [pantomima.app](https://pantomima.app)
 - 🔥 Some of my most popular projects are: [pantomima.app](https://pantomima.app) and [react-boilerplate](https://github.com/georgeroubie/react-boilerplate)
 - ⚡ Fun fact: I love playing Pokemon and retro video games
 <!--
@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ### Actively working 👨‍💻
 
-The technologies I use daily are HTML, CSS, React, TypeScript, CSS Modules, Zustand, Jest, Webpack and Vite.
+The technologies I use daily are HTML, CSS, React, TypeScript, Next.js, CSS Modules, Zustand, Jest, Webpack and Vite.
 
 ### Veteran technologies 🎖
 
-Over the years I used HTML Tables for UI, Bootstrap 2, Bootstrap 3, Materialize CSS, Sass, Less, Styled Components, jQuery, CoffeeScript, Backbone.js, Angular.js, Angular 2+, Redux, RxJS, Ionic 1, Ionic 2+, ASP.NET, ASP.NET MVC, Orchard CMS, Next.js, Mocha, Karma, Grunt, and Gulp.
+Over the years I used HTML Tables for UI, Bootstrap 2, Bootstrap 3, Materialize CSS, Sass, Less, Styled Components, jQuery, CoffeeScript, Backbone.js, Angular.js, Angular 2+, Redux, RxJS, Ionic 1, Ionic 2+, ASP.NET, ASP.NET MVC, Orchard CMS, Mocha, Karma, Grunt, and Gulp.
 
 ### Donate 🙏
 
