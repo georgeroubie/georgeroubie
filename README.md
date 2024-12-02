@@ -1,4 +1,4 @@
-### Hello World 👋
+### 👋 Hello World 
 
 - 🍔 I currently work at [efood](https://www.e-food.gr) as a Senior Front-End Engineer
 - 🌱 Right now I trying to improve [pantomima.app](https://pantomima.app)
@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Actively working 👨‍💻
+### 👨‍💻 Actively working
 
 The technologies I use daily are HTML, CSS, React, TypeScript, Next.js, CSS Modules, Zustand, Jest, Webpack and Vite.
 
-### Veteran technologies 🎖
+### 🎖 Veteran technologies
 
 Over the years I used HTML Tables for UI, Bootstrap 2, Bootstrap 3, Materialize CSS, Sass, Less, Styled Components, jQuery, CoffeeScript, Backbone.js, Angular.js, Angular 2+, Redux, RxJS, Ionic 1, Ionic 2+, ASP.NET, ASP.NET MVC, Orchard CMS, Mocha, Karma, Grunt, and Gulp.
