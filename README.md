@@ -9,7 +9,7 @@
 I work daily with the following technologies:  
 - **UI & Styling:** HTML5, CSS3, CSS Modules
 - **JavaScript Ecosystem:** React, TypeScript, Next.js, Zustand
-- **Testing & Build Tools:** Jest, Webpack, Vite  
+- **Testing & Build Tools:** Jest, Webpack, Vite, Vitest 
 
 ## 🎖 Veteran Technologies  
 Throughout my career, I’ve gained experience with a wide range of tools and frameworks:  
