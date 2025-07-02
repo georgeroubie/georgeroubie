@@ -1,8 +1,7 @@
 # 👋 Hello, World!
 
-💼 I’m currently a **Senior Front-End Engineer** at **[efood](https://www.e-food.gr)**.  
+💼 I’m currently a **Lead Front-End Engineer** at **[efood](https://www.e-food.gr)**.  
 🛠️ In my free time, I'm working on improving **[pantomima.app](https://pantomima.app)**.  
-✨ Some of my most notable projects include **[pantomima.app](https://pantomima.app)** and **[react-boilerplate](https://github.com/georgeroubie/react-boilerplate)**.  
 🎉 **Fun Fact:** I'm a dedicated Pokémon trainer and a lover of retro video games.
 
 ## 👨‍💻 Active Tech Stack  
