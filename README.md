@@ -1,8 +1,23 @@
 # 👋 Hello, World!
+💻 I’m a **Senior Front-End Engineer** at [**efood**](https://www.e-food.gr), crafting tasty digital experiences every day.  
+🎮 Founder of [**GameNest**](https://gamenest.gr), where we create party games for unforgettable game nights.  
+✨ Fun fact: I’m a proud Pokémon trainer and a huge fan of retro gaming!  
 
-💼 I’m currently a **Lead Front-End Engineer** at **[efood](https://www.e-food.gr)**.  
-🛠️ In my free time, I'm working on improving **[pantomima.app](https://pantomima.app)**.  
-🎉 **Fun Fact:** I'm a dedicated Pokémon trainer and a lover of retro video games.
+## Projects  
+GameNest focuses on **party-first design** — quick to learn, fun to play, and perfect for groups of 4–20+ people. Here are some of our flagship games:  
+
+- 🎭 [**pantomima.app**](https://pantomima.app)  
+  The ultimate online charades game! Choose from multiple categories (including a kid-friendly version), act it out, and get everyone laughing in seconds.  
+  _Party Game • Charades • Family Friendly_  
+
+- 🕵️ [**playpalermo.gr**](https://playpalermo.gr)  
+  A digital platform for the classic “Palermo” (Mafia) social deduction game, featuring secret roles, tense voting rounds, and an optional narrator for the perfect game-night experience.  
+  _Social Deduction • Roleplay • Strategy_  
+
+- 🎤 [**Karaoke Party**](https://pantomima.app/karaoke-party)
+  Sing your favorite songs with friends, perfect for parties, casual hangouts, or family gatherings.  
+  _Music • Singing • Party Vibes_  
+
 
 ## 👨‍💻 Active Tech Stack  
 I work daily with the following technologies:  
