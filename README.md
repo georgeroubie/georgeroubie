@@ -4,7 +4,7 @@
 ✨ Fun fact: I’m a proud Pokémon trainer and a huge fan of retro gaming!  
 
 ## Projects  
-GameNest focuses on **party-first design** — quick to learn, fun to play, and perfect for groups of 4–20+ people. Here are some of our flagship games:  
+GameNest focuses on **party-first design**, quick to learn, fun to play, and perfect for groups of 4–20+ people. Here are some of our flagship games:  
 
 - 🎭 [**pantomima.app**](https://pantomima.app)  
   The ultimate online charades game! Choose from multiple categories (including a kid-friendly version), act it out, and get everyone laughing in seconds.  
