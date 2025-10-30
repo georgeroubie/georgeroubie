@@ -23,7 +23,7 @@ GameNest focuses on **party-first design**, quick to learn, fun to play, and per
 I work daily with the following technologies:  
 - **UI & Styling:** HTML5, CSS3, CSS Modules
 - **JavaScript Ecosystem:** React, TypeScript, Next.js, Zustand
-- **Testing & Build Tools:** Jest, Webpack, Vite, Vitest 
+- **Testing & Build Tools:** Webpack, Vite, Vitest 
 
 ## 🎖 Veteran Technologies  
 Throughout my career, I’ve gained experience with a wide range of tools and frameworks:  
@@ -31,4 +31,4 @@ Throughout my career, I’ve gained experience with a wide range of tools and fr
 - **JavaScript Ecosystem:** jQuery, CoffeeScript, Backbone.js, Angular.js, Angular 2+, Redux, RxJS  
 - **Mobile & Full Stack:** Apache Cordova, Ionic 1, Ionic 2+
 - **Full Stack:** ASP.NET, ASP.NET MVC, Orchard CMS
-- **Testing & Build Tools:** Mocha, Karma, Grunt, Gulp
+- **Testing & Build Tools:** Mocha, Karma, Grunt, Gulp, Jest
