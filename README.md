@@ -1,5 +1,5 @@
 # 👋 Hello, World!
-💻 I’m a **Senior Front-End Engineer** at [**efood**](https://www.e-food.gr), crafting tasty digital experiences every day.  
+💻 I’m a **Staff Software Engineer, Front-End** at [**efood**](https://www.e-food.gr), crafting tasty digital experiences every day.  
 🎮 Founder of [**GameNest**](https://gamenest.gr), where we create party games for unforgettable game nights.  
 ✨ Fun fact: I’m a proud Pokémon trainer and a huge fan of retro gaming!  
 
