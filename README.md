@@ -14,9 +14,9 @@ GameNest focuses on **party-first design**, quick to learn, fun to play, and per
   A digital platform for the classic “Palermo” (Mafia) social deduction game, featuring secret roles, tense voting rounds, and an optional narrator for the perfect game-night experience.  
   _Social Deduction • Roleplay • Strategy_  
 
-- 🎤 [**Karaoke Party**](https://pantomima.app/karaoke-party)
-  Sing your favorite songs with friends, perfect for parties, casual hangouts, or family gatherings.  
-  _Music • Singing • Party Vibes_  
+- 👀 [**findtheimpostor.app**](https://findtheimpostor.app)  
+  A fast-paced word and deduction party game. Everyone knows the secret word, except one player, who is trying to blend in and avoid being exposed.  
+  _Party Game • Social Deduction • Word Game_  
 
 
 ## 👨‍💻 Active Tech Stack  
